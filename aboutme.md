@@ -1,16 +1,15 @@
 
-### ABOUT ME
+### ABOUT ME:
 After undergrad I started my career as an IT professional at Infosys Ltd, Mysore, India.
 
-My job profile as a systems engineer at Infosys was to develop an enterprise application using various technologies.
+My job profile as a systems engineer at Infosys was to develop an SAP enterprise application using various technologies.
 
-At Infosys I realized my potential to quickly understand technical, managerial aspects of IT and the relation between them. 
+At Infosys I gained experience in Analytics and Consultancy and also got familiar with managerial aspects of IT.
 
-It is this realized potential and my passion towards leading in Techno-Managerial roles that led me to pursue my Masters in [Information Technology and Management](http://jindal.utdallas.edu/isom/information-systems-programs/ms-information-technology/) at The University of Texas at Dallas. 
+After gaining this experience I decide to pursue Master in Business Anlytics at National University of Ireland, Galway.
 
-Concentrating in Business Intelligence and Analytics I have learned a wide range of technical and managerial subjects at UT Dallas
 
-#### A couple of things I have learned/done
+#### Learned a lot of analytical conecpts after completing following certifications:
 
 
 * Data cleaning, sampling, wrangling along with statistical and predictive analysis
