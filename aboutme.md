@@ -12,12 +12,14 @@ After gaining this experience I decide to pursue Master in Business Anlytics at 
 #### Learned a lot of analytical conecpts after completing following certifications:
 
 
-*  Data Analyst in Python (<a href="https://DataCamp Python.htm" target="_blank">DataCamp Certificate</a>)
-*  Data Analyst in Python (<a href="https://DataCamp R.htm" target="_blank">DataCamp Certificate</a>)
+*  Data Analyst in Python (<a href="https://DataCampPython.html" target="_blank">DataCamp Certificate</a>)
+*  Data Analyst in Python (<a href="https://DataCampR.html" target="_blank">DataCamp Certificate</a>)
 *  Tableau Beginner Certificate (<a href="https://www.udemy.com/certificate/UC-GZLYYZ2P/" target="_blank">Udemy Certificate</a>)
 *  SQL BootCamp Certificate (<a href="https://www.udemy.com/certificate/UC-NW19KSHV/" target="_blank">Udemy Certificate</a>)
 *  Excel Course Completion Certificate (<a href="https://www.udemy.com/certificate/UC-RUZFULJV/" target="_blank">Udemy Certificate</a>)
 *  You Can Also See Some of visulizxations in Tableau : <a href="https://public.tableau.com/profile/ketan.bhadoriya#!/" target="_blank">Click here</a>
+
+
 
 
 
