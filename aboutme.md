@@ -21,7 +21,7 @@ After gaining this experience I decide to pursue Master in Business Anlytics at 
 *  You Can Also See Some of visulizations in Tableau : <a href="https://public.tableau.com/profile/ketan.bhadoriya#!/" target="_blank">Click here</a>
 \
 \
-\
+
 #### My Motto
 
 >“Learn from yesterday, live for today, hope for tomorrow.”
