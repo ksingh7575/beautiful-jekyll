@@ -25,6 +25,6 @@ Concentrating in Business Intelligence and Analytics I have learned a wide range
 
 #### My Motto
 
->“Live as if you were to die tomorrow. Learn as if you were to live forever.” 
-― Mahatma Gandhi
+>“Learn from yesterday, live for today, hope for tomorrow.”
+― Albert Einstein
 
