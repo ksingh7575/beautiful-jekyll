@@ -3,6 +3,6 @@ layout: page
 title: Contact me
 ---
 
-> ### Email : praneethmunuganti@gmail.com
+> ### Email : ketan.bhadoriya@gmail.com
 > ### LinkedIn : <a href="https://www.linkedin.com/in/praneethmunuganti" target="_blank">Click here</a>
-> ### Skype : praneeth.mssr 
+> ### Facebook : praneeth.mssr 
