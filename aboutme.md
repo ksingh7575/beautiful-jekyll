@@ -12,7 +12,7 @@ After gaining this experience I decide to pursue Master in Business Anlytics at 
 
 #### Learned a lot of analytical conecpts after completing following certifications:
 
-
+*  R PRoject (<a href="https://ksingh7575.github.io/RprjRmd.html" target="_blank">R project</a>)
 *  Data Analyst in Python (<a href="https://ksingh7575.github.io/DataCampPython.html" target="_blank">DataCamp Certificate</a>)
 *  Data Analyst in R (<a href="https://ksingh7575.github.io/DataCampR.html" target="_blank">DataCamp Certificate</a>)
 *  Tableau Beginner Certificate (<a href="https://www.udemy.com/certificate/UC-GZLYYZ2P/" target="_blank">Udemy Certificate</a>)
