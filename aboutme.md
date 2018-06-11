@@ -22,8 +22,5 @@ Currently working as Reporting Analyst Intern at Jinendra Enterprises, Pune
 *  Worked on various case studies and doing analysis using MS-Excel.
 
 
-#### My Motto  
 
->“Learn from yesterday, live for today, hope for tomorrow.”
-― Albert Einstein
 
