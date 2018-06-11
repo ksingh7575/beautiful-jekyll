@@ -24,7 +24,7 @@ description: Solving problems through Data Analysis
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
-  #Projects: "projects"
+  Projects: "projects"
   About Me: "aboutme"
   Contact: "contactme"
  
