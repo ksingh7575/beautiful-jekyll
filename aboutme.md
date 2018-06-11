@@ -3,22 +3,22 @@
 
 After undergrad I started my career as an IT professional at Infosys Ltd, Mysore, India.
 
-My job profile as a systems engineer at Infosys was to develop an SAP enterprise application using various technologies.
+I worked at Infosys as SAP Technical Analyst and SAP AMS Consultant for more than 2 Years .
 
-At Infosys I gained experience in Analytics and Consultancy and also got familiar with managerial aspects of IT.
+At Infosys I gained experience in Analytics and Consultancy and also got familiar with Business aspects of IT.
 
-After gaining this experience I decide to pursue Master in Business Anlytics at National University of Ireland, Galway.
+After gaining the relevant experience I decide to pursue Master in Business Anlytics at National University of Ireland, Galway.
 
 
-#### Learned a lot of analytical conecpts after completing following certifications:
+#### A couple of things I have learned/done
 
-*  R PRoject (<a href="https://ksingh7575.github.io/RprjRmd.html" target="_blank">R project</a>)
-*  Data Analyst in Python (<a href="https://ksingh7575.github.io/DataCampPython.html" target="_blank">DataCamp Certificate</a>)
-*  Data Analyst in R (<a href="https://ksingh7575.github.io/DataCampR.html" target="_blank">DataCamp Certificate</a>)
-*  Tableau Beginner Certificate (<a href="https://www.udemy.com/certificate/UC-GZLYYZ2P/" target="_blank">Udemy Certificate</a>)
-*  SQL BootCamp Certificate (<a href="https://www.udemy.com/certificate/UC-NW19KSHV/" target="_blank">Udemy Certificate</a>)
-*  Excel Course Completion Certificate (<a href="https://www.udemy.com/certificate/UC-RUZFULJV/" target="_blank">Udemy Certificate</a>)
-*  You Can Also See Some of visulizations in Tableau : <a href="https://public.tableau.com/profile/ketan.bhadoriya#!/" target="_blank">Click here</a>    
+
+* Data cleaning, mining, wrangling along with statistical analysis.
+* Data visualization using tools like Tableau, R (ggplot2) and depicting complex data in a visually appealing and simple format
+* Worked on various stages of Software Development Life Cycle (SDLC)
+*  Designed and built database. Used complex SQL to query necessary data
+*  Worked on various case studies and doing analysis using MS-Excel.
+
 
 #### My Motto  
 
