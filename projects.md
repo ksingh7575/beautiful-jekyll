@@ -5,10 +5,10 @@ title: PROJECTS
 ---
 
 #### 1. Data analysis and visualization in R - Using QPLOT
-> The dataset used here is obtained from https://www.superdatascience.com/ while pursuing a course by Kirill Eremenko. [Cick here](https://ksingh7575.github.io/ 1st-Assignment-Soln.html) to see how **Fertility rate** and **Life expectancy** have changed from **1960 to 2013** throughtout the world. 
+> The dataset used here is obtained from https://www.superdatascience.com/ while pursuing a course by Kirill Eremenko. [Cick here](https://ksingh7575.github.io/1st-Assignment-Soln.html) to see how **Fertility rate** and **Life expectancy** have changed from **1960 to 2013** throughtout the world. 
 
 #### 2. Data analysis and visualization in R - Using GGPLOT2
-> The dataset used here is obtained from https://www.superdatascience.com/ while pursuing a course by Kirill Eremenko. [Cick here](https://ksingh7575.github.io/ 2nd-Assignment-Soln.html) to see how **Profit %** of movies released in the US is with respect to **Genre** of the movie and **Studio** it was made in. 
+> The dataset used here is obtained from https://www.superdatascience.com/ while pursuing a course by Kirill Eremenko. [Cick here](https://ksingh7575.github.io/2nd-Assignment-Soln.html) to see how **Profit %** of movies released in the US is with respect to **Genre** of the movie and **Studio** it was made in. 
 
 #### 3. Data analysis and visualization in R - Using Scatterplot
 > The dataset used here is obtained from https://www.superdatascience.com/ while pursuing a course by Kirill Eremenko. [Cick here](https://ksingh7575.github.io/RprjRmd.html) to see how **Internet Usage among People** affects the **Birth rate** categorised into different **income groups** and **Countries' Regions**. 
