@@ -11,7 +11,7 @@ After gaining the relevant experience I decide to pursue Master in Business Anal
 
 
 
-#### A couple of things I have learned/done
+#### Skill acquired from MOOCs
 
 
 * Data cleaning, mining, wrangling along with statistical analysis.
