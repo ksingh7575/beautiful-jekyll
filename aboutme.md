@@ -16,8 +16,7 @@ After gaining the relevant experience I decide to pursue Master in Business Anal
 
 * Data cleaning, mining, wrangling along with statistical analysis.
 * Data visualization using tools like Tableau, R (ggplot2) and depicting complex data in a visually appealing and simple format
-* Worked on various stages of Software Development Life Cycle (SDLC)
-*  Designed and built database. Used complex SQL to query necessary data
+*  Designed and built database. Used complex SQL to query get insights from data.
 *  Worked on various case studies and doing analysis using MS-Excel.
 
 
