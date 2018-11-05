@@ -7,9 +7,8 @@ I worked at Infosys as SAP Technical Analyst and SAP AMS Consultant for more tha
 
 At Infosys I gained experience in Analytics and Consultancy and also got familiar with Business aspects of IT.
 
-After gaining the relevant experience I decide to pursue Master in Business Anlytics at National University of Ireland, Galway.  
+After gaining the relevant experience I decide to pursue Master in Business Analytics at National University of Ireland, Galway.  
 
-Currently working as Reporting Analyst Intern at Jinendra Enterprises, Pune
 
 
 #### A couple of things I have learned/done
